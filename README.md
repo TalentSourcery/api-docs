@@ -68,11 +68,11 @@ The base URL of the API is:
 
 `GET /user`
 
-`GET /search`
+`GET /user/search`
 
-`GET /searches`
+`GET /user/searches`
 
-`POST /calibrate/github`
+`POST /user/calibrate/github`
 
 Description:
 
@@ -144,7 +144,7 @@ Example response:
   }
 ```
 
-`POST /search/github`
+`POST /user/search/github`
 
 Description:
 
